@@ -1,1 +1,1 @@
-# Credit-card-finacial-dashboard
+# Credit card finacial dashboard
